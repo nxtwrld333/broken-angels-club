@@ -1,0 +1,15 @@
+<!-- index.php -->
+<?php get_header(); ?>
+<div class="container">
+    <div class="logo">Ƀ</div>
+    <h2>ONE ɃROKEN FOR ALL MY BROS WORLDWIDE</h2>
+    <div class="description">
+        <p>Rune #10330 (Bitcoin)</p>
+        <p>Rune ID 840710:726</p>
+        <p>0Ƀ Premine</p>
+        <p>10,000Ƀ #Per Mint</p>
+        <p>3,300,000Ƀ Max Supply</p>
+    </div>
+    <a class="button" href="https://luminex.io/rune/BROKEN%E2%80%A2ANGELS%E2%80%A2CLUB">MINT</a>
+</div>
+<?php get_footer(); ?>
